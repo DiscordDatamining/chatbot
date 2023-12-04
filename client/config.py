@@ -7,7 +7,7 @@ class Client:
     guild: int = 898237461904375968
     channel: int = 1180612641954213888
     token: str = (
-        "MTE4MTAzNDY4MzA0ODQwNzEyNA.GGFeG5.Qm-wrLDfiLrwoj1Ko39QhYqLGsFyChVLNRqm_M"
+        ""
     )
 
 
